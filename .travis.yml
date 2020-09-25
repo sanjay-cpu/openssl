@@ -2,6 +2,9 @@ language: d
 
 #compiler:
 #  - dmd
+arch:
+  - amd64
+  - ppc64le
 
 install:
   # dmd
